@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/benPrestonOpenBank/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/benPrestonOpenBank/static/js/main.4e70c80c.chunk.js",
+    "main.js.map": "/benPrestonOpenBank/static/js/main.4e70c80c.chunk.js.map",
+    "runtime-main.js": "/benPrestonOpenBank/static/js/runtime-main.416758e6.js",
+    "runtime-main.js.map": "/benPrestonOpenBank/static/js/runtime-main.416758e6.js.map",
+    "static/js/2.d729f2e5.chunk.js": "/benPrestonOpenBank/static/js/2.d729f2e5.chunk.js",
+    "static/js/2.d729f2e5.chunk.js.map": "/benPrestonOpenBank/static/js/2.d729f2e5.chunk.js.map",
+    "index.html": "/benPrestonOpenBank/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/benPrestonOpenBank/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d729f2e5.chunk.js.LICENSE.txt": "/benPrestonOpenBank/static/js/2.d729f2e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.416758e6.js",
+    "static/js/2.d729f2e5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4e70c80c.chunk.js"
+  ]
+}

@@ -1,0 +1,2 @@
+(this.webpackJsonpbenpreston_openbank_preuba=this.webpackJsonpbenpreston_openbank_preuba||[]).push([[0],{10:function(e,n,t){},11:function(e,n,t){"use strict";t.r(n);var r=t(0),c=t(1),o=t.n(c),s=t(3),p=t.n(s);t(9),t(10);var a=function(){return Object(r.jsx)("div",{className:"App",children:"Hello"})};p.a.render(Object(r.jsx)(o.a.StrictMode,{children:Object(r.jsx)(a,{})}),document.getElementById("root"))},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.4e70c80c.chunk.js.map
